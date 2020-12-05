@@ -1,0 +1,151 @@
+Module 3 : Getting System Ready:
+
+Video - Google Colaboratory - Getting Started : 
+https://colab.research.google.com/drive/1LTWUKj1FXZjTtDxepicUB1siwjILFHNN?usp=sharing
+
+Video - Google Colab - Basics:
+https://colab.research.google.com/drive/1unNnKJ3MML_FYSAHk51K8H9pnd4SZcvu?usp=sharing
+
+
+
+Module 4 : Python Basics :
+
+Video - Python Basics :
+https://colab.research.google.com/drive/1s8VK51BumzhqfUgl5NMfGXu_IM3slaW4?usp=sharing
+
+Video - Python Basic Data Types:
+https://colab.research.google.com/drive/1jLOuyuLbcwh3FJUrj5FPY0RqRdxdZXMu?usp=sharing
+
+Video - Basic Operators in Python:
+https://colab.research.google.com/drive/1941THHaoV4QUFhmElk8RiyU3smI6lr_i?usp=sharing
+
+Video - Special Data Types - List:
+https://colab.research.google.com/drive/12cVMLlkhiXrB0L8Nbfw1Fx1U7r1CyAuJ?usp=sharing
+
+Video - Tuple, Set, Dictionary:
+https://colab.research.google.com/drive/1puRYzq0iReYNa0MX9frJA3CzrvHi4Dgu?usp=sharing
+
+Video - If statement:
+https://colab.research.google.com/drive/1GGurIe5UwO_xVGiv2p_SZU3Npcwit_ts?usp=sharing
+
+Video - Loops :
+https://colab.research.google.com/drive/1iW0gjvXuwIdomHByV13rnnmoRhaZGBZy?usp=sharing
+
+
+
+Module 5: Numpy and Pandas Basics:
+
+Video - Numpy Basics - Part 1 and Part 2:
+https://colab.research.google.com/drive/1wMBSX3tzjEKvd8B9N5q9k19TCYPCFB9J?usp=sharing
+
+Video - Numpy Basics - Part 3:
+https://colab.research.google.com/drive/16c0QU6sRjkSH5ALyWaoOYPSvDOXi9A3n?usp=sharing
+
+Video - Pandas Basics - part 1:
+https://colab.research.google.com/drive/16vau36yIVSi1l06Tm-FTt4gCxNes-rP3?usp=sharing
+
+Video - Pandas Basics - Part 2:
+https://colab.research.google.com/drive/1fxb36kWoH2LsSublR9R92FdGqNMgemtg?usp=sharing
+
+
+Module 6 : Data Collection:
+
+Video - Getting the Dataset - part 1 and part 2:
+https://colab.research.google.com/drive/1t1DX9U7E7gubn7X02iHoYtrEzzoMJwLG?usp=sharing
+
+Video - Importing Kaggle Datasets through API:
+https://colab.research.google.com/drive/14VoH2yYMhveodRCHQgkJtAkmPournXIt?usp=sharing
+
+Video - Web scrapping - Wikipedia:
+https://colab.research.google.com/drive/1XWbnjB9iOoCg_id2SaFxuAOuMU1OmoBy?usp=sharing
+
+
+
+Module 7 : Data Visualization and Analysis:
+
+Video - Data Visualization - Example:
+https://colab.research.google.com/drive/1iewMQS-lh8hM96FB65KYCSd-cisZvmoT?usp=sharing
+
+Video - Basic Plots - Matplotlib:
+https://colab.research.google.com/drive/1T7-LbKp-RwLndLMJL2FRnq9ps1SO8jrY?usp=sharing
+
+Video - Iris Dataset - Visualization:
+https://colab.research.google.com/drive/1Ol2FJnnHWPH7gE-Fefn_UpT_fuDbc85H?usp=sharing
+
+Video - Titanic Dataset - Visualization:
+https://colab.research.google.com/drive/1wFqbSg7w3136MGG8B1BdZyjWANJvVkYF?usp=sharing
+
+
+
+Module 8 : Data Preprocessing:
+
+Video : Dataset Manipulation - Basics:
+https://colab.research.google.com/drive/1-CSyjPto4ypomfIhEM9xvEAgCv39fkPW?usp=sharing
+
+Video : Handling Missing Values - by Dropping:
+https://colab.research.google.com/drive/10lpYBAFg2zwiMjwSzlwc20GPYLYZ6lpg?usp=sharing
+
+Video : Handling missing values - by Imputation:
+https://colab.research.google.com/drive/1dH5iAq2XrKIU8u0oeTqWlHEJVjx0PJyo?usp=sharing
+
+Video : Dataset Standardization:
+https://drive.google.com/file/d/1OH7FaVFD4uTLPNRh0Oo70t5hpa-m2dnA/view?usp=sharing
+
+Video : Label Encoding:
+https://colab.research.google.com/drive/1bhcVj-yp9FjjTwhoHWRad0POJrnY9jId?usp=sharing
+
+
+
+
+Module 10: Data Science Capstone Projects:
+
+Video - Breast Cancer Prediction (complete code):
+https://colab.research.google.com/drive/1RJ_iFW7X3x-HctebN-AIwt3VvaWxSRZW?usp=sharing
+
+Video - Iris Clustering:
+https://drive.google.com/file/d/1xFIgGMLsR6YJryYKmG5L0_x718LcKpKN/view?usp=sharing
+
+Video - Spam Mail Prediction :
+https://drive.google.com/file/d/1lUKOVPVH6P0rle0r60f3-PI676W3M_FW/view?usp=sharing
+
+Spam mail prediction dataset file:
+https://drive.google.com/file/d/1SVVKOMQMj1Np8-KHQMtjdvWm1S3yHo9x/view?usp=sharing
+
+
+Videos - Movie Recommendation Systems (complete code):
+https://colab.research.google.com/drive/16X_3af9fZhtnKAN7pQ0W4NUrooGNoM6W?usp=sharing
+
+Movie recommendation System dataset file:
+https://drive.google.com/file/d/1l03lnzzfXLVrMUM3g5uNgPGd-8ZzTezl/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
